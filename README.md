@@ -21,7 +21,8 @@
       2. View detected attacks in the interactive table
       3. Download results or save visualizations
 # OR
-  You can use my docker file to run it.
+  You can use my docker image to run it.
+  
   link for docker image: 
 
 # 📌 How to Train with Your Own Data
