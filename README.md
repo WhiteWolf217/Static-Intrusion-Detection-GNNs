@@ -1,4 +1,4 @@
-# 🛡️ Static-Intrusion-Detection-GNNs
+# 🛡️ Static-Intrusion-Detection-GNNs v1.0
 
 
 # 📦 Prerequisites & Installation
