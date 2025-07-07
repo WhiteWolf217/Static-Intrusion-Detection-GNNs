@@ -23,7 +23,7 @@
 # OR
     You can use my docker image to run it.
     To Install:
-      docker push whitewolf217/static-gnn-intrusion:tagname
+      docker pull whitewolf217/static-gnn-intrusion
     To Run:
       docker run -p 8501:8501 static-gnn-intrusion
 
