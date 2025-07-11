@@ -1,5 +1,6 @@
 # 🛡️ Static-Intrusion-Detection-GNNs v1.0
 
+This project processes pre-labeled network traffic data (from CICIDS2017) in CSV format, constructs graphs where IPs and ports are treated as nodes, and uses a Graph Neural Network (GNN) to classify edges (flows) as either normal or malicious. The model is trained offline, evaluated using standard metrics, and used to predict on new static datasets.
 
 # 📦 Prerequisites & Installation
     System Requirements
